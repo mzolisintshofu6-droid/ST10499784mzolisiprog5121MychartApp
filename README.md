@@ -8,4 +8,5 @@
 - During registration, the program checks if the inputted username, password, and phone number meet the required criteria.
   
 - If all validations pass, the user is registered and can log in with their credentials.
+  
 - After successful login, the program welcomes the user. If the login fails, an error message is shown.
